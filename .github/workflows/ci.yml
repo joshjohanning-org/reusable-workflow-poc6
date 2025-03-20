@@ -1,4 +1,4 @@
-name: Java Spring Boot Build1
+name: Java Spring Boot Build
 
 on:
   workflow_call:
